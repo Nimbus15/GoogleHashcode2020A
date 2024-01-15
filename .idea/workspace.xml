@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a9e5f84a-71f9-49f9-829d-d64afb6717a2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GoogleHashcode2020Second.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/a_example.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/b_read_on.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/b_read_onModification.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/c_incunabula.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/d_tough_choices.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/document_example.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/e_so_many_books.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/f_libraries_of_the_world.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/a_exampleOut.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/b_read_OnOut.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Brief/hashcode_2020_online_qualification_round.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Brief/practice_round_2021_v3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Constants/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LibraryData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LibraryInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LibraryMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LibrarySort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Models/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Models/OverallDetails.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2augpSRiDe5c7ysrjfRl1iZboQx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/IdeaProjects/GoogleHashcode2020Second/src&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\GoogleHashcode2020Second\src" />
+      <recent name="C:\Users\User\IdeaProjects\GoogleHashcode2020Second" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Constants" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="LibraryMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LibraryMain" />
+      <module name="GoogleHashcode2020Second" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LibraryMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a9e5f84a-71f9-49f9-829d-d64afb6717a2" name="Changes" comment="" />
+      <created>1705174063346</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705174063346</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LibraryMain.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LibraryInput.java</url>
+          <line>82</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/GoogleHashcode2020A$LibraryMain.ic" NAME="LibraryMain Coverage Results" MODIFIED="1705246493498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
